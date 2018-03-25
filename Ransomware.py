@@ -3,8 +3,6 @@ from ReverseCipher import *
 from AffineCipher import *
 import os, sys
 
-#NATHAN GREENWOOD 15097823 / PRODUCT CIPHER
-
 def main():
 
 	#edit this to target directory
